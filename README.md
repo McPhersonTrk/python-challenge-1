@@ -1,4 +1,9 @@
 # python-challenge-1
+
+code source is at the following link:
+https://github.com/McPhersonTrk/python-challenge-1/blob/main/menu.ipynb
+
+
 Notes:
 1) I worked with TA-james and classmate-matt to correct indent and infinite loop errors.
 2) For #8 the line spacing code was copied from the previous section and authored by the "starting code's" author
